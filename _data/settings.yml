@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
+- {name: 'Season One', folder: 'pages', file: 'season-one.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 

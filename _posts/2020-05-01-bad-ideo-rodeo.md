@@ -2,7 +2,7 @@
 layout: post
 title: "Bad Idea Rodeo"
 author: "Jeremiah Habets"
-categories: documentation
+categories: season-one
 tags: [documentation,sample]
 image: bull_by_horns.png
 ---

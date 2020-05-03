@@ -15,7 +15,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Bad Idea Rodeo"
-description:	       "A group of friends that occasionally comes up with an interesting idea."
+description:	       "A drinking club for ideas in film, tv, games."
 author:              "Jeremiah Habets"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
